@@ -3,7 +3,7 @@ md`# HW2 Strong baseline (2pt)`
 )}
 
 function _data(FileAttachment){return(
-FileAttachment("data@1.json").json()
+FileAttachment("data.json").json()
 )}
 
 function _starSign(){return(
