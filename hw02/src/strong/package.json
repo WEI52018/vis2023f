@@ -1,0 +1,14 @@
+{
+  "name": "5cbe5256a2b7b7b9",
+  "main": "5cbe5256a2b7b7b9@176.js",
+  "version": "176.0.0",
+  "homepage": "https://observablehq.com/d/5cbe5256a2b7b7b9",
+  "author": {
+    "name": "資料可視化",
+    "url": "https://observablehq.com/@datavisualization1"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
