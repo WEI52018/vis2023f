@@ -1,0 +1,14 @@
+{
+  "name": "ff8c5fe4cc2dd303",
+  "main": "ff8c5fe4cc2dd303@18.js",
+  "version": "18.0.0",
+  "homepage": "https://observablehq.com/d/ff8c5fe4cc2dd303",
+  "author": {
+    "name": "資料可視化",
+    "url": "https://observablehq.com/@datavisualization1"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
